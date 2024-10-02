@@ -23,7 +23,6 @@ Kelas : SK3B
 <br/>
 **2. Verify system SSH is enabled and running successfully** <br/>
 <img src="https://github.com/user-attachments/assets/8d81fb1b-e1e7-43ab-9491-02437c811d8b" width=500/>
- width=500/>
 <br/>
 
 ## D. Configure the Firewall
